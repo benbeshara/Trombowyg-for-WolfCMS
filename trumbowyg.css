@@ -1,0 +1,15 @@
+.trumbowyg-upload-button {
+	background-position: 5px -245px !important
+}
+
+.trumbowyg-base64-button {
+	background-position: 5px -245px !important
+}
+
+.trumbowyg-button-pane li {
+	vertical-align:top;
+}
+
+.trumbowyg-box, .trumbowyg-editor {
+	width: 100% !important
+}
